@@ -1,6 +1,0 @@
-[
-  {
-    "email": "you@example.com",
-    "token": "some-unique-token"
-  }
-]

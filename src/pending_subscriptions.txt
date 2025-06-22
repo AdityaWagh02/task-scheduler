@@ -1,6 +1,0 @@
-{
-    "omwagh0211@gmail.com": {
-        "code": "765179",
-        "timestamp": 1750596768
-    }
-}
