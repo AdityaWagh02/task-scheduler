@@ -1,1 +1,7 @@
-// Store the data in JSON format.
+[
+    {
+        "id": "685840d3c8ea1",
+        "name": "Complete assignment",
+        "completed": false
+    }
+]
